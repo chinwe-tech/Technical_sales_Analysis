@@ -1,4 +1,4 @@
-# Technical_sales_Analysis
+# Device_Usage vs Purchases_Analysis
 # 📊 Device Usage vs Purchases Analysis
 
 This project analyzes how customer activity differs across **Desktop, Mobile, and Tablet** devices.  
