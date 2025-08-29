@@ -63,7 +63,7 @@ Fork the repo, analyze additional metrics (e.g., revenue per device), and submit
 ## 📬 Contact
 👩‍💻 **Okonkwo Chinweokwu Cecilia**  
 - Email: [okonkwocecilia67@gmail.com](mailto:okonkwocecilia67@gmail.com)  
-- LinkedIn: [Okonkwo Cecilia](https://linkedin.com/in/okonkwo-cecilia)  
+- LinkedIn: [Cecilia Okonkwo](https://linkedin.com/in/okonkwo-cecilia)  
 
 
 
